@@ -1,6 +1,0 @@
-Flask
-Flask-Cors
-PyJWT
-werkzeug
-yfinance
-
